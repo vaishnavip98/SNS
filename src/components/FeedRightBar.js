@@ -3,7 +3,7 @@ import React from 'react'
 function FeedRightBar() {
   return (
     <div>
-        <table>
+        <table className='tbr'>
             <p>
             People You May Know
             </p>
